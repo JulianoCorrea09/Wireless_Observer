@@ -1,0 +1,2 @@
+rootProject.name='Wireless_Observer'
+include ':app'
